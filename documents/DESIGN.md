@@ -59,11 +59,15 @@
 
 <summary><h3>送信パターン新規作成画面</h3></summary>
 
+![送信パターン新規作成画面](images/create_transmission_pattern.png)
+
 </details>
 
 <details>
     
 <summary><h3>送信パターン編集作成画面</h3></summary>
+
+![送信パターン編集画面](images/update_transmission_pattern.png)
 
 </details>
 
