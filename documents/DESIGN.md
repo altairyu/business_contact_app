@@ -35,6 +35,8 @@
 <details>
 <summary><h3>定型文・送信パターン一覧画面</h3></summary>
 
+![ロ定型文・送信パターン一覧画面](images/message_list.png)
+
 </details>
 
 <details>
