@@ -1,26 +1,64 @@
-## 業務フロー図
+<details>
+
+<summary><h2>業務フロー図</h2></summary>
+
+
 - MVP（Minimum Viable Product）版
 
 ![業務フロー図MVP版](images/flow_chart.png)
 
+</details>
 
-## 画面遷移図
+<details>
+
+<summary><h2>画面遷移図</h2></summary>
+
 - MVP（Minimum Viable Product）版
 
 ![画面遷移図](images/screen_transition.png)
 
+</details>
 
-## ワイヤーフレーム
+<details>
+
+<summary><h2>ワイヤーフレーム</h2></summary>
+
 - MVP（Minimum Viable Product）版
 
-### ログイン画面
+<details>
+<summary><h3>ログイン画面</h3></summary>
 
-### 定型文・送信パターン一覧画面
+</details>
 
-### 定型文新規作成画面
+<details>
+<summary><h3>定型文・送信パターン一覧画面</h3></summary>
 
-### 定型文編集画面
+</details>
 
-### 送信パターン新規作成画面
+<details>
+    
+<summary><h3>定型文新規作成画面</h3></summary>
 
-### 送信パターン編集作成画面
+</details>
+
+<details>
+    
+    
+<summary><h3>定型文編集画面</h3></summary>
+
+</details>
+
+<details>
+
+<summary><h3>送信パターン新規作成画面</h3></summary>
+
+</details>
+
+<details>
+    
+<summary><h3>送信パターン編集作成画面</h3></summary>
+
+</details>
+
+
+</details>
