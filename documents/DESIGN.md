@@ -35,7 +35,7 @@
 <details>
 <summary><h3>定型文・送信パターン一覧画面</h3></summary>
 
-![ロ定型文・送信パターン一覧画面](images/message_list.png)
+![定型文・送信パターン一覧画面](images/message_list.png)
 
 </details>
 
@@ -43,12 +43,15 @@
     
 <summary><h3>定型文新規作成画面</h3></summary>
 
+![定型文新規作成画面](images/create_sentence.png)
+
 </details>
 
 <details>
-    
-    
+
 <summary><h3>定型文編集画面</h3></summary>
+
+![定型文編集画面](images/update_sentence.png)
 
 </details>
 
