@@ -3,7 +3,7 @@
 <summary><h2>業務フロー図</h2></summary>
 
 
-- MVP（Minimum Viable Product）版
+- 暫定版
 
 ![業務フロー図MVP版](images/flow_chart.png)
 
@@ -13,7 +13,7 @@
 
 <summary><h2>画面遷移図</h2></summary>
 
-- MVP（Minimum Viable Product）版
+- 暫定版
 
 ![画面遷移図](images/screen_transition.png)
 
@@ -23,7 +23,7 @@
 
 <summary><h2>ワイヤーフレーム</h2></summary>
 
-- MVP（Minimum Viable Product）版
+- 暫定版
 
 <details>
 <summary><h3>ログイン画面</h3></summary>
