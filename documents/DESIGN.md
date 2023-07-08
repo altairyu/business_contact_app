@@ -73,3 +73,24 @@
 
 
 </details>
+
+
+<details>
+
+<summary><h2>テーブル定義書</h2></summary>
+
+
+
+</details>
+
+
+
+<details>
+
+<summary><h2>システム構成図</h2></summary>
+
+- 暫定版
+
+![システム構成図](images/infrastructure_configuration_diagram.png)
+
+</details>
