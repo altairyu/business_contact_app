@@ -77,11 +77,25 @@
 
 <details>
 
-<summary><h2>テーブル定義書</h2></summary>
+<summary><h2>テーブル設計</h2></summary>
 
 
+※ コア機能分のみ。適宜アップデートします。
+
+
+<details>
+
+<summary><h3>テーブル：template_messages</h3></summary>
+
+| カラム名    | データ型         | NULL | キー      | 初期値 | AUTO INCREMENT |
+|---------|--------------|----|---------|-----|----------------|
+| id      | BIGINT       | NO | PRIMARY |     | YES            |
+| name    | VARCHAR(255) | NO |         |     |                |
+| message | TEXT         | NO |         |     |                |
 
 </details>
+
+
 
 
 
