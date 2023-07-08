@@ -85,6 +85,7 @@
 
 <details>
 
+
 <summary><h3>テーブル：template_messages</h3></summary>
 
 | カラム名    | データ型         | NULL | キー      | 初期値 | AUTO INCREMENT |
@@ -93,9 +94,12 @@
 | name    | VARCHAR(255) | NO |         |     |                |
 | message | TEXT         | NO |         |     |                |
 
-</details>
 
 </details>
+
+
+</details>
+
 
 
 
@@ -106,5 +110,6 @@
 - 暫定版
 
 ![システム構成図](images/infrastructure_configuration_diagram.png)
+
 
 </details>
